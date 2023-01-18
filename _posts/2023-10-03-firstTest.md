@@ -2,7 +2,7 @@
 title: Test Posting
 author: kjy
 date: 2023-01-11 16:10:00 +0800
-categories: [Tutorial]
+categories: [Practice]
 tags: [writing]
 ---
 
