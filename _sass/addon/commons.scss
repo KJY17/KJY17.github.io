@@ -1142,6 +1142,12 @@ $sidebar-display: "sidebar-display";
   @include pl-pr(0);
 }
 
+#main-content-01 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 #core-wrapper,
 #panel-wrapper {
   margin-top: $topbar-height; /* same as the height of topbar */
