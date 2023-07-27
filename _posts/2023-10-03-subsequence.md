@@ -46,3 +46,4 @@ function solution(sequence, k) {
 	}
 	return answer;
 }
+```
