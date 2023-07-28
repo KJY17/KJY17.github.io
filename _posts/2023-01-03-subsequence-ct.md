@@ -1,9 +1,6 @@
 ---
-layout: post
-refactor: true
 title: 연속된 부분 수열의 합
-author: kjy
-date: 2023-01-11 16:10:00 +0800
+date: 2023-01-11 16:10:00 +0900
 categories: [Practice]
 tags: [writing]
 ---
