@@ -49,7 +49,7 @@ layout: page
 
     <div class="post-content">
       <p>
-        {{ content | markdownify | strip_html | truncate: 200 | escape }}
+        {{ post.content | markdownify | strip_html | truncate: 200 | escape }}
       </p>
     </div>
 
