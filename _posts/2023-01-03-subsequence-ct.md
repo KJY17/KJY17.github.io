@@ -1,6 +1,8 @@
 ---
-title: 연속된 부분 수열의 합
-date: 2023-01-11 16:10:00 +0900
+layout: page
+title: "연속된 부분 수열의 합"
+date: 2022-07-03 21:05:00 +0900
+lastmod: 2022-07-05 20:50:00 +0900
 categories: [Practice]
 tags: [writing]
 ---
