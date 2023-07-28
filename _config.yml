@@ -77,8 +77,13 @@ paginate:              10
 paginate_path:         /:num/
 
 
+<<<<<<< HEAD
 # Theme
 # ---------------------------------------------------------------------------------------
+=======
+# the avatar on sidebar, support local or CORS resources
+avatar: /assets/img/test.PNG
+>>>>>>> parent of 38833f9 (플테)
 
 theme: jekyll-theme-hydejack
 # remote_theme: hydecorp/hydejack@v9
