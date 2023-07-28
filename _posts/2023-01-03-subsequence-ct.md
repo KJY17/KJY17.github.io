@@ -1,15 +1,6 @@
 ---
-<<<<<<< HEAD:_posts/2023-01-03-subsequence-ct.md
-layout: page
-title: "연속된 부분 수열의 합"
-date: 2022-07-03 21:05:00 +0900
-lastmod: 2022-07-05 20:50:00 +0900
-=======
-layout: post
 title: 연속된 부분 수열의 합
-author: kjy
-date: 2023-01-11 16:10:00 +0800
->>>>>>> parent of 9365fca (Update 2023-10-03-subsequence.md):_posts/2023-10-03-subsequence.md
+date: 2023-01-11 16:10:00 +0900
 categories: [Practice]
 tags: [writing]
 ---
